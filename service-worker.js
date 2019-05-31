@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ElizabethCG.github.io/BurquerQueenV1/precache-manifest.8d643903bd566cd312cf2a5d4f93d5d0.js"
+  "/BurquerQueenV1/precache-manifest.90214cab7ca0b8b3830a415ebb23f740.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ElizabethCG.github.io/BurquerQueenV1/index.html", {
+workbox.routing.registerNavigationRoute("/BurquerQueenV1/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

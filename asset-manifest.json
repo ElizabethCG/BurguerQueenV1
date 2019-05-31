@@ -1,13 +1,13 @@
 {
-  "main.css": "/ElizabethCG.github.io/BurquerQueenV1/static/css/main.3dfaa962.chunk.css",
-  "main.js": "/ElizabethCG.github.io/BurquerQueenV1/static/js/main.a37e0aec.chunk.js",
-  "main.js.map": "/ElizabethCG.github.io/BurquerQueenV1/static/js/main.a37e0aec.chunk.js.map",
-  "runtime~main.js": "/ElizabethCG.github.io/BurquerQueenV1/static/js/runtime~main.c827b4ff.js",
-  "runtime~main.js.map": "/ElizabethCG.github.io/BurquerQueenV1/static/js/runtime~main.c827b4ff.js.map",
-  "static/js/2.8059871a.chunk.js": "/ElizabethCG.github.io/BurquerQueenV1/static/js/2.8059871a.chunk.js",
-  "static/js/2.8059871a.chunk.js.map": "/ElizabethCG.github.io/BurquerQueenV1/static/js/2.8059871a.chunk.js.map",
-  "index.html": "/ElizabethCG.github.io/BurquerQueenV1/index.html",
-  "precache-manifest.8d643903bd566cd312cf2a5d4f93d5d0.js": "/ElizabethCG.github.io/BurquerQueenV1/precache-manifest.8d643903bd566cd312cf2a5d4f93d5d0.js",
-  "service-worker.js": "/ElizabethCG.github.io/BurquerQueenV1/service-worker.js",
-  "static/css/main.3dfaa962.chunk.css.map": "/ElizabethCG.github.io/BurquerQueenV1/static/css/main.3dfaa962.chunk.css.map"
+  "main.css": "/BurquerQueenV1/static/css/main.3dfaa962.chunk.css",
+  "main.js": "/BurquerQueenV1/static/js/main.88dabd00.chunk.js",
+  "main.js.map": "/BurquerQueenV1/static/js/main.88dabd00.chunk.js.map",
+  "runtime~main.js": "/BurquerQueenV1/static/js/runtime~main.2cdd893b.js",
+  "runtime~main.js.map": "/BurquerQueenV1/static/js/runtime~main.2cdd893b.js.map",
+  "static/js/2.8059871a.chunk.js": "/BurquerQueenV1/static/js/2.8059871a.chunk.js",
+  "static/js/2.8059871a.chunk.js.map": "/BurquerQueenV1/static/js/2.8059871a.chunk.js.map",
+  "index.html": "/BurquerQueenV1/index.html",
+  "precache-manifest.90214cab7ca0b8b3830a415ebb23f740.js": "/BurquerQueenV1/precache-manifest.90214cab7ca0b8b3830a415ebb23f740.js",
+  "service-worker.js": "/BurquerQueenV1/service-worker.js",
+  "static/css/main.3dfaa962.chunk.css.map": "/BurquerQueenV1/static/css/main.3dfaa962.chunk.css.map"
 }
